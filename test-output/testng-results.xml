@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29413" started-at="2019-02-13T08:09:30Z" finished-at="2019-02-13T08:10:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29413" started-at="2019-02-13T08:09:30Z" finished-at="2019-02-13T08:10:00Z">
+      <class name="ecshop.tc.TestAdvancedSearch">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ecshop.tc.TestAdvancedSearch@59f99ea]" name="beforeMethod" is-config="true" duration-ms="4787" started-at="2019-02-13T16:09:30Z" finished-at="2019-02-13T16:09:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ecshop.tc.TestAdvancedSearch@59f99ea]" name="f" duration-ms="5385" started-at="2019-02-13T16:09:35Z" data-provider="dp" finished-at="2019-02-13T16:09:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[b]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[手机类型]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[三星]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[6000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[请选择]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ecshop.tc.TestAdvancedSearch@59f99ea]" name="afterMethod" is-config="true" duration-ms="267" started-at="2019-02-13T16:09:41Z" finished-at="2019-02-13T16:09:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ecshop.tc.TestAdvancedSearch@59f99ea]" name="beforeMethod" is-config="true" duration-ms="3140" started-at="2019-02-13T16:09:41Z" finished-at="2019-02-13T16:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ecshop.tc.TestAdvancedSearch@59f99ea]" name="f" duration-ms="6912" started-at="2019-02-13T16:09:44Z" data-provider="dp" finished-at="2019-02-13T16:09:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[n]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[手机类型]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[联想]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[精品手机]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2008年06月]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[灰色]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ecshop.tc.TestAdvancedSearch@59f99ea]" name="afterMethod" is-config="true" duration-ms="180" started-at="2019-02-13T16:09:51Z" finished-at="2019-02-13T16:09:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ecshop.tc.TestAdvancedSearch@59f99ea]" name="beforeMethod" is-config="true" duration-ms="3069" started-at="2019-02-13T16:09:51Z" finished-at="2019-02-13T16:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ecshop.tc.TestAdvancedSearch@59f99ea]" name="f" duration-ms="5449" started-at="2019-02-13T16:09:54Z" data-provider="dp" finished-at="2019-02-13T16:10:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[t]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[充值卡]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[LG]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[500]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[请选择]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ecshop.tc.TestAdvancedSearch@59f99ea]" name="afterMethod" is-config="true" duration-ms="181" started-at="2019-02-13T16:10:00Z" finished-at="2019-02-13T16:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ecshop.tc.TestAdvancedSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
